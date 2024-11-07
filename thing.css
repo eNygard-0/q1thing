@@ -1,0 +1,38 @@
+body{
+	font-family: outfit;
+	padding: 0px;
+}
+select, option{
+	padding: 5px;
+	border-radius: 3px;
+	font-family: outfit;
+}
+button{
+	border-radius: 3px;
+	font-family: outfit;
+	border: none;
+	padding: 7px;
+	text-align: center;
+	background-color: slategrey;
+	width: 70px;
+	height: 40px;
+}
+.head{
+	background-color: slategrey;
+	border: none;
+	width: 100vw;
+	border: none;
+	flex-shrink: 0;
+	height: 9vh;
+	padding: 0;
+	text-decoration: none;
+	text-align: center;
+}
+.whole{
+	border: none;
+	margin: 0;
+
+}
+.not{
+	margin-left: 20vw;
+}
